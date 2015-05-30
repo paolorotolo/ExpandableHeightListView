@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ExpandableHeightListView Example</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse cursus gravida auctor. Pellentesque auctor, erat in semper fringilla, ligula sem viverra dui, finibus maximus est purus et elit. Vivamus non leo nunc. Donec tincidunt nisi lectus, in bibendum nunc pulvinar sed. Cras non elementum urna. Cras facilisis arcu ac metus mollis tempus. Etiam sit amet dignissim risus, ut rutrum dui. Vivamus at sodales elit, condimentum efficitur odio.
+
+Praesent scelerisque massa et est facilisis, quis egestas erat auctor. Phasellus in tellus in urna suscipit aliquet. Pellentesque vulputate, dolor non facilisis porta, justo dui porta lorem, in efficitur libero orci ornare massa. In mollis sit amet turpis sed consectetur. Proin laoreet lacus quis justo mattis convallis. Nullam ut sapien eget diam viverra facilisis. Ut vehicula justo vel urna dapibus, at semper nisl dictum. Proin faucibus dictum tempor. Proin id consectetur erat. Cras convallis dui quis massa eleifend, rutrum sagittis eros pretium.
+
+Cras scelerisque leo sed lorem ornare eleifend. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus nec justo lobortis, convallis lectus non, egestas nisl. Nulla cursus purus sit amet cursus malesuada. Cras vitae lorem tortor. Integer vehicula libero non ex faucibus, eget tempor nisl blandit. Aenean aliquet pulvinar cursus. Quisque purus libero, euismod sit amet libero nec, dapibus commodo elit. Suspendisse ligula mi, tempor placerat aliquam vel, pellentesque id ex. Nulla sagittis urna sit amet ex porttitor imperdiet. Integer ornare justo et sem scelerisque pharetra. Vivamus placerat aliquet enim, at eleifend turpis ultrices a. Suspendisse justo metus, vulputate sit amet tempus non, lacinia in metus. Curabitur quis erat odio. Donec tristique a lectus et viverra.
+
+Quisque scelerisque efficitur odio, tincidunt gravida nunc. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam leo metus, consequat eget ornare sit amet, posuere id magna. Quisque tincidunt ornare porttitor. Morbi egestas volutpat sapien non semper. Donec leo nulla, ultrices vitae lorem non, vehicula auctor orci. Mauris maximus tristique cursus. Pellentesque luctus rhoncus sem a elementum. Nam non felis consequat, convallis metus dignissim, malesuada ligula. Vivamus varius placerat erat in sodales. Nam in aliquet dolor. Ut non magna mauris. Ut sit amet dolor dui. Vestibulum eu convallis lorem. Mauris lobortis orci urna, at dictum enim porttitor ac.</string>
+    <string name="action_settings">Settings</string>
+    <string name="scroll">Scroll bottom to see the ListView</string>
+    <string name="title_activity_default_list_view">DefaultListView</string>
+    <string name="title_activity_expandable_list_view">ExpandableListView</string>
+    <string name="whoops">Whoops, as you can see ListView only shows the first item.</string>
+</resources>
