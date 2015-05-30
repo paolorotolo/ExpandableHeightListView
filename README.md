@@ -1,6 +1,9 @@
 # ExpandableHeightListView
 Android Library to put a **ListView** inside a **ScrollView** without collapsing.
 
+[![Maven Central](https://img.shields.io/badge/maven%20central-expandableheightlistview%3A1.0.0-brightgreen.svg)](http://search.maven.org/#artifactdetails|com.github.paolorotolo|expandableheightlistview|1.0.0|)
+
+
 ## How to use
 Add this to your **build.gradle**:
 ```
