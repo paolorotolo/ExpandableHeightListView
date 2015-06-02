@@ -9,7 +9,7 @@ Cras scelerisque leo sed lorem ornare eleifend. Cum sociis natoque penatibus et 
 
 Quisque scelerisque efficitur odio, tincidunt gravida nunc. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam leo metus, consequat eget ornare sit amet, posuere id magna. Quisque tincidunt ornare porttitor. Morbi egestas volutpat sapien non semper. Donec leo nulla, ultrices vitae lorem non, vehicula auctor orci. Mauris maximus tristique cursus. Pellentesque luctus rhoncus sem a elementum. Nam non felis consequat, convallis metus dignissim, malesuada ligula. Vivamus varius placerat erat in sodales. Nam in aliquet dolor. Ut non magna mauris. Ut sit amet dolor dui. Vestibulum eu convallis lorem. Mauris lobortis orci urna, at dictum enim porttitor ac.</string>
     <string name="action_settings">Settings</string>
-    <string name="scroll">Scroll bottom to see the ListView</string>
+    <string name="scroll">Scroll to the bottom to see the ListView</string>
     <string name="title_activity_default_list_view">DefaultListView</string>
     <string name="title_activity_expandable_list_view">ExpandableListView</string>
     <string name="whoops">Whoops, as you can see ListView only shows the first item.</string>
