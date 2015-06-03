@@ -7,7 +7,7 @@ Android Library to put a **ListView** inside a **ScrollView** without collapsing
 
 ## How to use
 Add this to your **build.gradle**:
-```
+```java
 repositories {
     mavenCentral()
 }
@@ -19,7 +19,7 @@ dependencies {
 
 Add ExpandableHeightListView instead of ListView in your **xml files**:
 
-```
+```java
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -35,7 +35,7 @@ Add ExpandableHeightListView instead of ListView in your **xml files**:
 ```
 
 Expand ExpandableHeightListView **programmatically**:
-```
+```java
     ExpandableHeightListView expandableListView = (ExpandableHeightListView) findViewById(R.id.expandable_listview);
     
     expandableListView.setAdapter(adapterName);
