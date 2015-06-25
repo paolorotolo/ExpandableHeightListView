@@ -1,4 +1,4 @@
-package com.edenagency.jet2holidaystravelcompanion.view;
+package com.github.paolorotolo.expandableheightlistview;
 
 import android.content.Context;
 import android.util.AttributeSet;
