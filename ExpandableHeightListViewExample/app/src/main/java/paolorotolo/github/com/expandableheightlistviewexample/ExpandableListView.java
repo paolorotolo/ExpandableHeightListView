@@ -28,8 +28,9 @@ public class ExpandableListView extends ActionBarActivity {
 
         expandableListView.setAdapter(itemsAdapter);
 
+        // No required.
         // This actually do the magic
-        expandableListView.setExpanded(true);
+        // expandableListView.setExpanded(true);
     }
 
     @Override
