@@ -41,4 +41,10 @@ public class ExpandableHeightListView extends ListView {
     public void setExpanded(boolean expanded) {
         this.expanded = expanded;
     }
+    // 2017.02.06 :: no need to write setExpanded method anymore
+    @Override
+    public void setAdapter(ListAdapter adapter) {
+        super.setAdapter(adapter);
+        setExpanded(true);
+    }
 }

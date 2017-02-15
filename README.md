@@ -39,9 +39,6 @@ Expand ExpandableHeightListView **programmatically**:
     ExpandableHeightListView expandableListView = (ExpandableHeightListView) findViewById(R.id.expandable_listview);
     
     expandableListView.setAdapter(adapterName);
-
-    // This actually does the magic
-    expandableListView.setExpanded(true);
 ```
 
 It also works well with **GridView**.
