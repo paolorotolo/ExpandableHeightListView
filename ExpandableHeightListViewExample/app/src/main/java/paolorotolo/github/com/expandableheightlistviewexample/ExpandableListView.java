@@ -21,7 +21,6 @@ public class ExpandableListView extends ActionBarActivity {
         // If you do not want scroll to go to the bottom of page when changed height of the listview.
         expandableListView.setFocusable(false);
         
-        expandableListView.
         int i;
         for (i=0; i<=20; i++){
             numbersArray.add(i);
